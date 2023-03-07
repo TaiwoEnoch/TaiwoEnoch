@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="100%" src="https://media.licdn.com/dms/image/D4D16AQGhHW9z7E-KkA/profile-displaybackgroundimage-shrink_350_1400/0/1666776661392?e=1683763200&v=beta&t=-fYwOamMTbKelFNWo93ad6eeffLai38y3UfCiJ5Y3MI">
 <h1 align="center">Hi 👋, I'm Enoch Taiwo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria. A potential Full Stack Engineer with love for educating others through various media.</h3>
+<h3 align="center">A passionate frontend developer from Nigeria. A potential Full Stack Engineer with love for educating others through various media. Let's connect and have a chat.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiwoenoch&label=Profile%20views&color=0e75b6&style=flat" alt="taiwoenoch" /> </p>
 
