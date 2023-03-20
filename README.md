@@ -1,6 +1,7 @@
-<img align="right" alt="coding" width="100%" src="https://media.licdn.com/dms/image/D4D16AQGhHW9z7E-KkA/profile-displaybackgroundimage-shrink_350_1400/0/1666776661392?e=1683763200&v=beta&t=-fYwOamMTbKelFNWo93ad6eeffLai38y3UfCiJ5Y3MI">
-<h1 align="center">Hi 👋, I'm Enoch Taiwo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria. A potential Full Stack Engineer with love for educating others through various media. Open for Opportunities, Let's connect and have a chat.</h3>
+## <h1 align='center' style ='margin:30px'>👋🏼 Hi there!</h1><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Welcome,+and+thank+you+for+visiting!;I+am+Enoch,+a+Full+Stack+Developer;and+I+am+open+to+OPPORTUNITIES.)](https://git.io/typing-svg)
+<br><hr>
+<h2 align="center">Let's connect and have a chat.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiwoenoch&label=Profile%20views&color=0e75b6&style=flat" alt="taiwoenoch" /> </p>
 
@@ -8,11 +9,15 @@
 
 <img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM0N2NkYzJlNzZlOGZkMmY3Y2VhZjAwY2JkMTc2NWVlMmJjZWVlZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👯 I’m looking to collaborate on **JavaScript/React.Js.**
+- 🔭 I'm currently working on my skills @microverseinc.
+
+- 🤝  I enjoy learning while collaborating with peers.
 
 - 👨‍💻 All of my projects are available at [https://taiwoenoch.github.io/Enoch-Portfolio/](https://taiwoenoch.github.io/Enoch-Portfolio/)
 
 - 📫 How to reach me **taiwoenoch0@gmail.com**
+
+- 💬  Engage me on any tech-related stuff.
 
 - ⚡ Fun fact **Yeah I think I am funny**
 
