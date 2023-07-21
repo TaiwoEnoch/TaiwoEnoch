@@ -1,5 +1,5 @@
 ## <h1 align='center' style ='margin:30px'>👋🏼 Hi there!</h1><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Welcome,+and+thank+you+for+visiting!;I+am+Enoch,+a+Front+end+Developer;and+I+am+open+to+OPPORTUNITIES.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Welcome,+and+thank+you+for+visiting!;I+am+Enoch,+a+Full+stack+Developer;and+I+am+open+to+OPPORTUNITIES.)](https://git.io/typing-svg)
 <br><hr>
 <h2 align="center">Let's connect and have a chat.</h2>
 
