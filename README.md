@@ -13,7 +13,7 @@
 
 - 🤝  I enjoy learning while collaborating with peers.
 
-- 👨‍💻 All of my projects are available at [[https://taiwoenoch.github.io/Enoch-Portfolio/](https://taiwoenoch.github.io/Enoch-Portfolio/)](https://singular-malasada-09d558.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://singular-malasada-09d558.netlify.app/">My Portfolio</a>
 
 - 📫 How to reach me **taiwoenoch0@gmail.com**
 
